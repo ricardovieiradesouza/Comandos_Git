@@ -61,19 +61,31 @@ git log
 #Exemplo
 
  git log
-===================================================================
+
+  
+  
+  
   
 commit ae52403e14ac0e531eebd0838e369a3ed7fd70d5 (HEAD -> master)
+  
 Author: ricardovieiradesouza <ricardosouza.suporte@outlook.com>
+  
 Date:   Sat Aug 14 01:35:41 2021 +0530
 
     adionando quarta linha
+  
 
 commit d3bdddddf3f521a91cf89656477476c9facae18a
+  
 Author: ricardovieiradesouza <ricardosouza.suporte@outlook.com>
+  
 Date:   Sat Aug 14 00:47:19 2021 +0530
+  
 
     Adicionando segundo linha
+  
+  
+  
 ====================================================================
 
 # Logo depois basta pegar o numero do commit e pesquisar com comando:
