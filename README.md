@@ -143,6 +143,8 @@ git shortlog -sn   #quantidade de commit
 ##############################################
 
 
+# Remover alteracao
+
 
 
 
