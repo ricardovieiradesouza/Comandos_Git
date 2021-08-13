@@ -160,19 +160,19 @@ Alterações já adicionadas ao index, bem como novos arquivos serão mantidos.
 
 
 #Enviando alterações
-Suas alterações agora est no HEAD da sua cópia de trabalho local
-Para enviar estas alterações ao seu repositório remoto, exece
+#Suas alterações agora est no HEAD da sua cópia de trabalho local
+#Para enviar estas alterações ao seu repositório remoto, exece
 
 
 git push origin master
 
 
-Altere master para qualquer ramo (branch) desejado, enviando suas alterações para ele.
+#Altere master para qualquer ramo (branch) desejado, enviando suas alterações para ele.
 
 
 
-Se você não clonou umepositório existente e quer conectar seu repositório a um servidor remot
-você deve adicioná-lo c:
+#Se você não clonou umepositório existente e quer conectar seu repositório a um servidor remot
+#você deve adicioná-lo c:
 
 
 git remote add origin <servidor>
@@ -180,7 +180,7 @@ git remote add origin <servidor>
 
 Agora você é capaz de enviar suas alterações para o servidor remoto selecionado.
 
-##########################################################################################################
+#########################################################################################
 
 
 
