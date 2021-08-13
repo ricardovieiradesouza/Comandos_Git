@@ -143,7 +143,53 @@ git shortlog -sn   #quantidade de commit
 ##############################################
 
 
-# Remover alteracao
+# Sobrescrever alterações locais
+
+#Comando git checkout
+
+No caso de você ter feito algo errado (que seguramente nunca acontece 
+você pode sobrescrever as alterações locais usando o commando
+
+git checkout 
+
+isto substitui as alterações na sua árvore de trabalho com o conteúdo mais recente no H
+Alterações já adicionadas ao index, bem como novos arquivos serão mantidos.
+
+
+
+
+
+#Enviando alterações
+Suas alterações agora est no HEAD da sua cópia de trabalho local
+Para enviar estas alterações ao seu repositório remoto, exece
+
+
+git push origin master
+
+
+Altere master para qualquer ramo (branch) desejado, enviando suas alterações para ele.
+
+
+
+Se você não clonou umepositório existente e quer conectar seu repositório a um servidor remot
+você deve adicioná-lo c:
+
+
+git remote add origin <servidor>
+
+
+Agora você é capaz de enviar suas alterações para o servidor remoto selecionado.
+
+##########################################################################################################
+
+
+
+
+
+
+
+
+
 
 
 
