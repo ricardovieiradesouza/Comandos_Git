@@ -41,7 +41,7 @@ git commit -m "Adicionando segundo linha"
 # Comando para verificar as alteração 
 
 git diff
-==================================================================
+
 iff --git a/README.md b/README.md
 index 22f8ac4..7164e16 100644
 --- a/README.md
@@ -49,7 +49,7 @@ index 22f8ac4..7164e16 100644
 @@ -1 +1 @@
 -Arquivo inical
 +Arquivo terceiro comentatioiff --git a/README.md b/README.md
-=================================================================
+
   
   
 # Vizualizar a diferença entre os arquivos depois do commit
