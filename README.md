@@ -85,14 +85,23 @@ git show <numero do commit>
 ############   FLUXO DO GIT #####################
 
 git status
-#alterar os arquivos 
+  
+#alterar os arquivos
+  
 git add <arquivo>
+  
 git diff
+  
 git commit -m "a alteração que foi realiza"
+  
 git log
+  
 git show <número do commit>
-git log --decorate 
+  
+git log --decorate
+  
 git log --decorate --oneline
+  
 git shortlog
 
 
