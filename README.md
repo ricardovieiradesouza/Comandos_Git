@@ -182,7 +182,29 @@ Agora você é capaz de enviar suas alterações para o servidor remoto selecion
 
 #########################################################################################
 
+# Conexão ssh por chave
+  
+  ssh-keygen -t rsa -b 4096 -C "ricardosouza.suporte@outlook.com"
+  
+  
+  
+  ![image](https://user-images.githubusercontent.com/48540103/129644834-48f6fca6-3d35-47c7-a40b-cfe265f00591.png)
 
+  
+  ![image](https://user-images.githubusercontent.com/48540103/129644854-0485e762-4fe8-46ad-89ad-e2b6beac541b.png)
+
+  
+  ![image](https://user-images.githubusercontent.com/48540103/129644873-20638e1d-e251-493e-aedc-3038d41afb06.png)
+
+  
+  
+  
+  
+  git clone git@github.com:ricardovieiradesouza/Comandos_Git.git
+  
+  
+  
+  
 
 
 
